@@ -1,1 +1,1 @@
-# RAG-advance-project
+# RAG-project
